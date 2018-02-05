@@ -21,5 +21,5 @@ compdef _robo robo
 alias robo='php robo.phar'
 
 # install robo in the current directory
-alias get_robo='curl -O http://codegyre.github.io/Robo/robo.phar && php robo.phar'
+alias get_robo='curl -O http://robo.li/robo.phar && php robo.phar'
 
